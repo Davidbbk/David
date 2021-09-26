@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Davidbbk
+- 👋 Hi, I’m David as u can see
 - 👀 I’m a biginner student of cyber security and computer science &
 - engineerring
 - 🌱 I’m currently learning python and java script
