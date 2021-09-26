@@ -3,3 +3,4 @@
 - engineerring
 - 🌱 I’m currently learning python and java script
 - 📫 How to reach me by ig : lightspeedevy
+- ✨ My prounous : he/him
