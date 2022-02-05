@@ -1,6 +1,7 @@
-- 👋 Hi, I’m David as u can see
-- 👀 I’m a biginner student of cyber security and computer science &
-- engineerring
-- 🌱 I’m currently learning python and java script
-- 📫 How to reach me by ig : lightspeedevy
+- Hi There ^_^,
+ Im David a Biginner of a Full Stack Development in object oriented programming, I love people to share their Knowledge with me 
+  
+- 🌀 I'm Studying Computer Science & Software Engineering
+- 🌱 I’m currently learning Java Script
+- 📫 Get in Touch: Twitter @Falsepropehcyy
 - ✨ My prounous : he/him
